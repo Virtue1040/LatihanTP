@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Latihan01 {
     static Scanner scan = new Scanner(System.in);
-    public static void main(String[] args) {
+    public static void main(String[] args ) {
         int bilanganBulat;
         String isNegativetext = "Negative";
         bilanganBulat = scan.nextInt();

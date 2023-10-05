@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Latihan02 {
     static Scanner scan = new Scanner(System.in);
     public static void main(String[] args) {
+        //
         int bilanganBulat;
         String isGenaptext = "Genap";
         bilanganBulat = scan.nextInt();
