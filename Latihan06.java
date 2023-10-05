@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class Latihan06 {
     static Scanner scan = new Scanner(System.in);
     public static void main(String[] main) {
-        //
-        int x1,x2,y1,y2,hasilxy1,hasilxy2;;
+        int x1,x2,y1,y2,hasilxy1, hasilxy2;;
 
         x1 = scan.nextInt();
         x2 = scan.nextInt();

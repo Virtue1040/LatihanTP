@@ -6,7 +6,7 @@ public class Latihan03 {
         //
         double bilanganRiil;
         bilanganRiil = scan.nextDouble();
-        bilanganRiil += 0.4;
+        bilanganRiil += 0.5;
         int bilanganBulat = (int) bilanganRiil;
         
         System.out.printf("Pembulatan : %d", bilanganBulat);
